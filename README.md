@@ -8,3 +8,5 @@ Some more text.
 
 * this is a list item
 * this is ... another one!
+
+Adding yet another line from the Google Cloud Shell!
